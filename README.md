@@ -1,18 +1,18 @@
 # DealStealBlocklists
 
-bol		929
-blokker		102
-mediamarkt		41
-amazon		344
-coolblue		50
-intertoys		0
-bcc		1
-expert		0
-hornbach		7
-lidl		14
-makro		0
-plein		0
-praxis		0
-tink		0
-wehkamp		0
-welkoop		0
+bol		929 <br />
+blokker		102 <br />
+mediamarkt		41 <br />
+amazon		344 <br />
+coolblue		50 <br />
+intertoys		0 <br />
+bcc		1 <br />
+expert		0 <br />
+hornbach		7 <br />
+lidl		14 <br />
+makro		0 <br />
+plein		0 <br />
+praxis		0 <br />
+tink		0 <br />
+wehkamp		0 <br />
+welkoop		0 <br />
