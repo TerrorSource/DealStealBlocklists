@@ -1,19 +1,19 @@
 # DealStealBlocklists
- </ br>
-bol		1234 </ br>
-blokker		144 </ br>
-mediamarkt		50 </ br>
-amazon		768 </ br>
-coolblue		52 </ br>
-intertoys		0 </ br>
-bcc		1 </ br>
-expert		1 </ br>
-hornbach		7 </ br>
-lidl		21 </ br>
-makro		2 </ br>
-plein		2 </ br>
-praxis		36 </ br>
-tink		0 </ br>
-wehkamp		8 </ br>
-welkoop		0 </ br>
-kruidvat		2 </ br>
+
+bol		1234
+blokker		144
+mediamarkt		50
+amazon		768
+coolblue		52
+intertoys		0
+bcc		1
+expert		1
+hornbach		7
+lidl		21
+makro		2
+plein		2
+praxis		36
+tink		0
+wehkamp		8
+welkoop		0
+kruidvat		2
